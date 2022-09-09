@@ -29,7 +29,7 @@ const AuthorForm = (props) => {
     //onChange to update name and description
     return (
         <div>
-            <h3>Add an Author</h3>
+            <h3>Add an Author - Edited</h3>
             <form onSubmit={onSubmitHandler}>
                 <p>
                     <label className="form-label">Name</label><br/>
